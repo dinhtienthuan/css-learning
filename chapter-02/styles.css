@@ -13,6 +13,8 @@ body {
 }
 
 h1 {
+  font-family: "Varela Round", "Arial Black", serif;
+  font-weight: normal;
   color: #6A94CC;
   font-size: 3em;
   margin: 0;
