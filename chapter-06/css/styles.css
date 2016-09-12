@@ -22,3 +22,8 @@
   font-weight: bold;
   font-style: italic;
 }
+
+html {
+  font-family: PTSans, Arial, sans-serif;
+  font-size: 62.5%;
+}
