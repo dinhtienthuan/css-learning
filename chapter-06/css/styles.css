@@ -34,3 +34,10 @@ html {
   font-size: 4em;
   text-shadow: 4px 4px 6px rgba(0,0,0,.75);
 }
+
+.main h2 {
+  font: normal 3.5em "Slabo 27px", Garamond, Times, serif;
+  color: rgb(37,76,143);
+  border-bottom: 1px solid rgb(200,200,200);
+  margin-top: 25px;
+}
