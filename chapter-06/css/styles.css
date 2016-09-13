@@ -41,3 +41,12 @@ html {
   border-bottom: 1px solid rgb(200,200,200);
   margin-top: 25px;
 }
+
+.main h3 {
+  color: rgb(241,47,6);
+  font-size: 1.9em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
