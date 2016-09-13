@@ -58,3 +58,8 @@ html {
   margin-right: 50px;
   margin-bottom: 10px;
 }
+
+.main p::first-line {
+  font-weight: bold;
+  color: rgb(153,153,153);
+}
