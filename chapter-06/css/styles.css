@@ -26,6 +26,7 @@
 html {
   font-family: PTSans, Arial, sans-serif;
   font-size: 62.5%;
+  background: rgb(225,238,253) url(../images/bg_body.png) repeat-x;
 }
 
 .main h1 {
