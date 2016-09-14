@@ -74,4 +74,6 @@ h2 {
   margin: 10px;
   background-color: rgb(250,235,199);
   padding: 10px 20px;
+  border: 1px dotted rgb(252,101,18);
+  border-top: 20px solid rgb(252,101,18);
 }
